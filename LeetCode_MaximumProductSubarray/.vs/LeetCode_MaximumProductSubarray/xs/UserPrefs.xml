@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{A6FE0DF4-A0E2-4B70-94C2-D33E74F9EB8D}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LeetCode_MaximumProductSubarray/Program.cs">
+    <Files>
+      <File FileName="LeetCode_MaximumProductSubarray/Program.cs" Line="49" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LeetCode_MaximumProductSubarray" expanded="True">
+            <Node name="LeetCode_MaximumProductSubarray" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>max</Value>
+          <Value>sum</Value>
+          <Value>i</Value>
+          <Value>j</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.LeetCode__MaximumProductSubarray PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

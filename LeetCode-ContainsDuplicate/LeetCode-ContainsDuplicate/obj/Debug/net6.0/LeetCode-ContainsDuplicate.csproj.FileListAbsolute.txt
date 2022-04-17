@@ -1,0 +1,15 @@
+/Users/phipham/Projects/LeetCode-ContainsDuplicate/LeetCode-ContainsDuplicate/obj/Debug/net6.0/LeetCode-ContainsDuplicate.csproj.AssemblyReference.cache
+/Users/phipham/Projects/LeetCode-ContainsDuplicate/LeetCode-ContainsDuplicate/obj/Debug/net6.0/LeetCode-ContainsDuplicate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phipham/Projects/LeetCode-ContainsDuplicate/LeetCode-ContainsDuplicate/obj/Debug/net6.0/LeetCode-ContainsDuplicate.AssemblyInfoInputs.cache
+/Users/phipham/Projects/LeetCode-ContainsDuplicate/LeetCode-ContainsDuplicate/obj/Debug/net6.0/LeetCode-ContainsDuplicate.AssemblyInfo.cs
+/Users/phipham/Projects/LeetCode-ContainsDuplicate/LeetCode-ContainsDuplicate/obj/Debug/net6.0/LeetCode-ContainsDuplicate.csproj.CoreCompileInputs.cache
+/Users/phipham/Projects/LeetCode-ContainsDuplicate/LeetCode-ContainsDuplicate/bin/Debug/net6.0/LeetCode-ContainsDuplicate
+/Users/phipham/Projects/LeetCode-ContainsDuplicate/LeetCode-ContainsDuplicate/bin/Debug/net6.0/LeetCode-ContainsDuplicate.deps.json
+/Users/phipham/Projects/LeetCode-ContainsDuplicate/LeetCode-ContainsDuplicate/bin/Debug/net6.0/LeetCode-ContainsDuplicate.runtimeconfig.json
+/Users/phipham/Projects/LeetCode-ContainsDuplicate/LeetCode-ContainsDuplicate/bin/Debug/net6.0/LeetCode-ContainsDuplicate.dll
+/Users/phipham/Projects/LeetCode-ContainsDuplicate/LeetCode-ContainsDuplicate/bin/Debug/net6.0/LeetCode-ContainsDuplicate.pdb
+/Users/phipham/Projects/LeetCode-ContainsDuplicate/LeetCode-ContainsDuplicate/obj/Debug/net6.0/LeetCode-ContainsDuplicate.dll
+/Users/phipham/Projects/LeetCode-ContainsDuplicate/LeetCode-ContainsDuplicate/obj/Debug/net6.0/refint/LeetCode-ContainsDuplicate.dll
+/Users/phipham/Projects/LeetCode-ContainsDuplicate/LeetCode-ContainsDuplicate/obj/Debug/net6.0/LeetCode-ContainsDuplicate.pdb
+/Users/phipham/Projects/LeetCode-ContainsDuplicate/LeetCode-ContainsDuplicate/obj/Debug/net6.0/LeetCode-ContainsDuplicate.genruntimeconfig.cache
+/Users/phipham/Projects/LeetCode-ContainsDuplicate/LeetCode-ContainsDuplicate/obj/Debug/net6.0/ref/LeetCode-ContainsDuplicate.dll

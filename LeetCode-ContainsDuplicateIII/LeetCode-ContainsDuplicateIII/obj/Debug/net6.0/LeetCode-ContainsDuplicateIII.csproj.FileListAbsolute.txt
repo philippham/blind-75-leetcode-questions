@@ -1,0 +1,15 @@
+/Users/phipham/Projects/LeetCode-ContainsDuplicateIII/LeetCode-ContainsDuplicateIII/bin/Debug/net6.0/LeetCode-ContainsDuplicateIII
+/Users/phipham/Projects/LeetCode-ContainsDuplicateIII/LeetCode-ContainsDuplicateIII/bin/Debug/net6.0/LeetCode-ContainsDuplicateIII.deps.json
+/Users/phipham/Projects/LeetCode-ContainsDuplicateIII/LeetCode-ContainsDuplicateIII/bin/Debug/net6.0/LeetCode-ContainsDuplicateIII.runtimeconfig.json
+/Users/phipham/Projects/LeetCode-ContainsDuplicateIII/LeetCode-ContainsDuplicateIII/bin/Debug/net6.0/LeetCode-ContainsDuplicateIII.dll
+/Users/phipham/Projects/LeetCode-ContainsDuplicateIII/LeetCode-ContainsDuplicateIII/bin/Debug/net6.0/LeetCode-ContainsDuplicateIII.pdb
+/Users/phipham/Projects/LeetCode-ContainsDuplicateIII/LeetCode-ContainsDuplicateIII/obj/Debug/net6.0/LeetCode-ContainsDuplicateIII.csproj.AssemblyReference.cache
+/Users/phipham/Projects/LeetCode-ContainsDuplicateIII/LeetCode-ContainsDuplicateIII/obj/Debug/net6.0/LeetCode-ContainsDuplicateIII.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phipham/Projects/LeetCode-ContainsDuplicateIII/LeetCode-ContainsDuplicateIII/obj/Debug/net6.0/LeetCode-ContainsDuplicateIII.AssemblyInfoInputs.cache
+/Users/phipham/Projects/LeetCode-ContainsDuplicateIII/LeetCode-ContainsDuplicateIII/obj/Debug/net6.0/LeetCode-ContainsDuplicateIII.AssemblyInfo.cs
+/Users/phipham/Projects/LeetCode-ContainsDuplicateIII/LeetCode-ContainsDuplicateIII/obj/Debug/net6.0/LeetCode-ContainsDuplicateIII.csproj.CoreCompileInputs.cache
+/Users/phipham/Projects/LeetCode-ContainsDuplicateIII/LeetCode-ContainsDuplicateIII/obj/Debug/net6.0/LeetCode-ContainsDuplicateIII.dll
+/Users/phipham/Projects/LeetCode-ContainsDuplicateIII/LeetCode-ContainsDuplicateIII/obj/Debug/net6.0/refint/LeetCode-ContainsDuplicateIII.dll
+/Users/phipham/Projects/LeetCode-ContainsDuplicateIII/LeetCode-ContainsDuplicateIII/obj/Debug/net6.0/LeetCode-ContainsDuplicateIII.pdb
+/Users/phipham/Projects/LeetCode-ContainsDuplicateIII/LeetCode-ContainsDuplicateIII/obj/Debug/net6.0/LeetCode-ContainsDuplicateIII.genruntimeconfig.cache
+/Users/phipham/Projects/LeetCode-ContainsDuplicateIII/LeetCode-ContainsDuplicateIII/obj/Debug/net6.0/ref/LeetCode-ContainsDuplicateIII.dll

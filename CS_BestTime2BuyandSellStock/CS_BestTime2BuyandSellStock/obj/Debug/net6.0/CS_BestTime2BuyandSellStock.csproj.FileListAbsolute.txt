@@ -1,0 +1,15 @@
+/Users/phipham/Projects/CS_BestTime2BuyandSellStock/CS_BestTime2BuyandSellStock/bin/Debug/net6.0/CS_BestTime2BuyandSellStock
+/Users/phipham/Projects/CS_BestTime2BuyandSellStock/CS_BestTime2BuyandSellStock/bin/Debug/net6.0/CS_BestTime2BuyandSellStock.deps.json
+/Users/phipham/Projects/CS_BestTime2BuyandSellStock/CS_BestTime2BuyandSellStock/bin/Debug/net6.0/CS_BestTime2BuyandSellStock.runtimeconfig.json
+/Users/phipham/Projects/CS_BestTime2BuyandSellStock/CS_BestTime2BuyandSellStock/bin/Debug/net6.0/CS_BestTime2BuyandSellStock.dll
+/Users/phipham/Projects/CS_BestTime2BuyandSellStock/CS_BestTime2BuyandSellStock/bin/Debug/net6.0/CS_BestTime2BuyandSellStock.pdb
+/Users/phipham/Projects/CS_BestTime2BuyandSellStock/CS_BestTime2BuyandSellStock/obj/Debug/net6.0/CS_BestTime2BuyandSellStock.csproj.AssemblyReference.cache
+/Users/phipham/Projects/CS_BestTime2BuyandSellStock/CS_BestTime2BuyandSellStock/obj/Debug/net6.0/CS_BestTime2BuyandSellStock.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phipham/Projects/CS_BestTime2BuyandSellStock/CS_BestTime2BuyandSellStock/obj/Debug/net6.0/CS_BestTime2BuyandSellStock.AssemblyInfoInputs.cache
+/Users/phipham/Projects/CS_BestTime2BuyandSellStock/CS_BestTime2BuyandSellStock/obj/Debug/net6.0/CS_BestTime2BuyandSellStock.AssemblyInfo.cs
+/Users/phipham/Projects/CS_BestTime2BuyandSellStock/CS_BestTime2BuyandSellStock/obj/Debug/net6.0/CS_BestTime2BuyandSellStock.csproj.CoreCompileInputs.cache
+/Users/phipham/Projects/CS_BestTime2BuyandSellStock/CS_BestTime2BuyandSellStock/obj/Debug/net6.0/CS_BestTime2BuyandSellStock.dll
+/Users/phipham/Projects/CS_BestTime2BuyandSellStock/CS_BestTime2BuyandSellStock/obj/Debug/net6.0/refint/CS_BestTime2BuyandSellStock.dll
+/Users/phipham/Projects/CS_BestTime2BuyandSellStock/CS_BestTime2BuyandSellStock/obj/Debug/net6.0/CS_BestTime2BuyandSellStock.pdb
+/Users/phipham/Projects/CS_BestTime2BuyandSellStock/CS_BestTime2BuyandSellStock/obj/Debug/net6.0/CS_BestTime2BuyandSellStock.genruntimeconfig.cache
+/Users/phipham/Projects/CS_BestTime2BuyandSellStock/CS_BestTime2BuyandSellStock/obj/Debug/net6.0/ref/CS_BestTime2BuyandSellStock.dll

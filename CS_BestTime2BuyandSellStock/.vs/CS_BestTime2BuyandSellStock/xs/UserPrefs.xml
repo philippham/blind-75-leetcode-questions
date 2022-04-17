@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{4296DE85-C35B-4FA3-8385-504596A3D555}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CS_BestTime2BuyandSellStock/Program.cs">
+    <Files>
+      <File FileName="CS_BestTime2BuyandSellStock/Program.cs" Line="43" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CS_BestTime2BuyandSellStock" expanded="True">
+            <Node name="CS_BestTime2BuyandSellStock" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CS__BestTime2BuyandSellStock PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

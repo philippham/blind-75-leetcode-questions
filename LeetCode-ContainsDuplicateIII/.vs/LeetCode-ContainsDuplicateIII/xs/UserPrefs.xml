@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{2858213E-8BD5-459B-9625-4F56AD84D869}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LeetCode-ContainsDuplicateIII PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LeetCode-ContainsDuplicateIII/Program.cs">
+    <Files>
+      <File FileName="LeetCode-ContainsDuplicateIII/Program.cs" Line="11" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LeetCode-ContainsDuplicateIII" expanded="True">
+            <Node name="LeetCode-ContainsDuplicateIII" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

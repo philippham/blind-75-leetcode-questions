@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{72D5F323-66CC-4662-AD19-7CDE0CA93C82}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LeetCode-ProductofArrayExceptSelf/Program.cs">
+    <Files>
+      <File FileName="LeetCode-ProductofArrayExceptSelf/Program.cs" Line="35" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LeetCode-ProductofArrayExceptSelf" expanded="True">
+            <Node name="LeetCode-ProductofArrayExceptSelf" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LeetCode-ProductofArrayExceptSelf FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

@@ -1,0 +1,15 @@
+/Users/phipham/Projects/CS_SlidingWindow/CS_SlidingWindow/bin/Debug/net6.0/CS_SlidingWindow
+/Users/phipham/Projects/CS_SlidingWindow/CS_SlidingWindow/bin/Debug/net6.0/CS_SlidingWindow.deps.json
+/Users/phipham/Projects/CS_SlidingWindow/CS_SlidingWindow/bin/Debug/net6.0/CS_SlidingWindow.runtimeconfig.json
+/Users/phipham/Projects/CS_SlidingWindow/CS_SlidingWindow/bin/Debug/net6.0/CS_SlidingWindow.dll
+/Users/phipham/Projects/CS_SlidingWindow/CS_SlidingWindow/bin/Debug/net6.0/CS_SlidingWindow.pdb
+/Users/phipham/Projects/CS_SlidingWindow/CS_SlidingWindow/obj/Debug/net6.0/CS_SlidingWindow.csproj.AssemblyReference.cache
+/Users/phipham/Projects/CS_SlidingWindow/CS_SlidingWindow/obj/Debug/net6.0/CS_SlidingWindow.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phipham/Projects/CS_SlidingWindow/CS_SlidingWindow/obj/Debug/net6.0/CS_SlidingWindow.AssemblyInfoInputs.cache
+/Users/phipham/Projects/CS_SlidingWindow/CS_SlidingWindow/obj/Debug/net6.0/CS_SlidingWindow.AssemblyInfo.cs
+/Users/phipham/Projects/CS_SlidingWindow/CS_SlidingWindow/obj/Debug/net6.0/CS_SlidingWindow.csproj.CoreCompileInputs.cache
+/Users/phipham/Projects/CS_SlidingWindow/CS_SlidingWindow/obj/Debug/net6.0/CS_SlidingWindow.dll
+/Users/phipham/Projects/CS_SlidingWindow/CS_SlidingWindow/obj/Debug/net6.0/refint/CS_SlidingWindow.dll
+/Users/phipham/Projects/CS_SlidingWindow/CS_SlidingWindow/obj/Debug/net6.0/CS_SlidingWindow.pdb
+/Users/phipham/Projects/CS_SlidingWindow/CS_SlidingWindow/obj/Debug/net6.0/CS_SlidingWindow.genruntimeconfig.cache
+/Users/phipham/Projects/CS_SlidingWindow/CS_SlidingWindow/obj/Debug/net6.0/ref/CS_SlidingWindow.dll
